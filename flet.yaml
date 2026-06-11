@@ -1,0 +1,4 @@
+app:
+  name: MathMate
+  package: com.hossein.mathmate
+  version: 1.0.0
