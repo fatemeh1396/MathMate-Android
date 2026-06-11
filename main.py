@@ -660,6 +660,3 @@ def main(page: ft.Page):
 
 
 ft.run(main)
-
-
-# flet pack exersise.py --icon my_icon.ico --name "MyFirstApp"
