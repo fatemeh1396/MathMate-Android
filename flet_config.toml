@@ -1,0 +1,7 @@
+[app]
+name = "MathMate"
+author = "Hossein"
+version = "1.0.0"
+
+[windows]
+icon = "icon.ico"
